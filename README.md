@@ -26,11 +26,4 @@ I'm passionate about web development, UI/UX design, interactive 3D applications,
 
 ---
 
-### 📊 GitHub Stats
-
-![PMD's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-pmd&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-pmd&layout=compact&theme=radial)
-
----
-
 ⚡ **Fun fact:** I enjoy managing sports competitions, gaming, and working with 3D models in the browser!
